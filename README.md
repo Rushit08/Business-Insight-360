@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjZkOTUwN2EtNmFhOC00MDY5LWEyMmItNDBhZDY5MGZjYWNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -17,33 +17,33 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - DAX studio (for optimizing the report)
 - Project charter file
 
-## PowerBI techniques Learnt
+## Power BI techniques Learnt
 
-- What are all the questions should be asked before staring the project
+- What are all the questions that should be asked before starting the project
 - Creating calculated columns
-- creating measure using DAX language
+- creating a measure using DAX language
 - Data modeling
 - Using Bookmarks to switch between two visuals
 - Page navigation with buttons
-- Using divide function to prevent zero division errors
-- creating date table using m language
+- Using the divide function to prevent zero division errors
+- Creating date table using M language
 - Dynamic titles based on the applied filters
 - Using KPI indicators
 - Conditional formatting the values in visuals using icons or background color
 - Data validation techniques
 - PowerBi services
-- Publishing reports to PowerBi services
-- Setting up personal gateway to set up the auto refresh of data
-- PowerBi App creation
-- Collaboration, workspace, access permissions in PowerBi services
+- Publishing reports to Power services
+- Setting up a personal gateway to set up the auto refresh of data
+- Power App creation
+- Collaboration, workspace, access permissions in PowerBI services
 - And more 😅
 
 ## GitHub 
 
-- Uploading Large size files using GitHub LFS
+- Uploading large-sized files using GitHub LFS
 - Tracking the particular type of file extensions for LFS
 
-## Business related terms
+## Business-related terms
 
 - Gross price
 - Pre-invoice deductions
@@ -60,7 +60,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Distributors
 - Consumer
 
-## Company’s back ground
+## Company’s background
 
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
